@@ -1,0 +1,19 @@
+# Selenium for web scraping
+selenium==4.25.0
+
+# Hugging Face Transformers for pre-trained models
+transformers==4.45.2
+
+# TensorFlow and Keras for compatibility with transformers
+tensorflow==2.17.0
+tf-keras==2.17.0
+
+# Regular expressions for URL pattern matching (part of Python standard library, no need to install)
+# re (No installation required)
+
+# For JSON processing and date-time operations (part of Python standard library, no need to install)
+# json, datetime (No installation required)
+
+# If running in headless mode with Edge, you may need these (comment out if using Chrome)
+# msedge-selenium-tools==3.141.2
+# webdriver-manager==3.8.4
